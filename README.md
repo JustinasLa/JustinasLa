@@ -1,11 +1,24 @@
-### Hi, I'm Justinas 👋
+<div align="center">
+
+# 🧠 [fable5-mindset](https://github.com/JustinasLa/fable5-mindset)
+
+**A Claude Code plugin that makes Opus 4.8 work like Fable 5 — Mythos-class habits, zero "Shall I proceed?".**
+
+Answers lead with the outcome. Work finishes without permission-asking. Prose you read once.
+
+`/plugin install fable5-mindset@fable5-mindset`
+
+[**⭐ Star it →**](https://github.com/JustinasLa/fable5-mindset) &nbsp;·&nbsp; outcome-first &nbsp;·&nbsp; autonomous &nbsp;·&nbsp; readable &nbsp;·&nbsp; MIT
+
+</div>
+
+---
+
+# Justinas Launikonis
 
 Software & embedded systems student in the Netherlands, building small, focused apps – no telemetry, no bloat, no subscriptions.
 
 I like minimal interfaces and useful tools.
-
-[![Website](https://img.shields.io/badge/Portfolio-justinaslaunikonis.me-0A66C2?style=flat&logo=safari&logoColor=white)](http://justinaslaunikonis.me/)
-
 ---
 
 #### Even-dev apps
