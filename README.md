@@ -19,6 +19,7 @@ Answers lead with the outcome. Work finishes without permission-asking. Prose yo
 Software & embedded systems student in the Netherlands, building small, focused apps – no telemetry, no bloat, no subscriptions.
 
 I like minimal interfaces and useful tools.
+
 ---
 
 #### Even-dev apps
