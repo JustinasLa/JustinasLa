@@ -17,6 +17,19 @@ I like minimal interfaces and useful tools.
 
 ---
 
+#### Minecraft plugins
+
+| Plugin | Description | Built with |
+|---|---|---|
+| **[MusicalInstruments](https://github.com/justinasla/MusicalInstruments)** | Instrument playing and music recording plugin for Minecraft 1.21.x | Java |
+| **[AACommandsFiller](https://github.com/justinasla/AACommandsFiller)** | Command filler / visibility / tab-completion plugin for Minecraft 1.21.x | Java |
+| **[Geiger-Counters](https://github.com/justinasla/Geiger-Counters)** | Geiger counters plugin for Minecraft 1.21.x | Java |
+| **[AnimalWhistle](https://github.com/justinasla/AnimalWhistle)** | Animal locator plugin for Minecraft 1.21.x | Java |
+| **[Surgery](https://github.com/justinasla/Surgery)** | Surgery plugin for Minecraft 1.21.x | Java |
+| **[Letters](https://github.com/justinasla/Letters)** | Letters plugin for Minecraft 1.21.x | Java |
+
+---
+
 #### Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
