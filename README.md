@@ -1,14 +1,15 @@
 <div align="center">
 
-# 🧠 [fable5-mindset](https://github.com/JustinasLa/fable5-mindset)
+# 🕶️ [evenhub-app-ui](https://github.com/JustinasLa/evenhub-app-ui)
 
-**A Claude Code plugin that makes Opus 4.8 work like Fable 5 — Mythos-class habits, zero "Shall I proceed?".**
+**A Claude Code plugin that makes your agent speak fluent Even OS 2.0 — official G2 design tokens, zero guessed hex values.**
 
-Answers lead with the outcome. Work finishes without permission-asking. Prose you read once.
+Exact color tokens. FK Grotesk type scale. 193 official pixel SVGs bundled.
 
-`/plugin install fable5-mindset@fable5-mindset`
+`/plugin marketplace add JustinasLa/evenhub-app-ui` <br>
+`/plugin install evenhub-app-ui@evenhub-app-ui`
 
-[**⭐ Star it →**](https://github.com/JustinasLa/fable5-mindset) &nbsp;·&nbsp; outcome-first &nbsp;·&nbsp; autonomous &nbsp;·&nbsp; readable &nbsp;·&nbsp; MIT
+[**⭐ Star it →**](https://github.com/JustinasLa/evenhub-app-ui) &nbsp;·&nbsp; design tokens &nbsp;·&nbsp; 193 pixel icons &nbsp;·&nbsp; icon forge &nbsp;·&nbsp; MIT
 
 </div>
 
