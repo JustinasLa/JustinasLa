@@ -38,7 +38,7 @@ I like minimal interfaces and useful tools.
 |---|---|---|
 | **[musical-instruments](https://github.com/justinasla/musical-instruments)** | Instrument playing and music recording plugin for Minecraft 1.21.x | Java |
 | **[AACommandsFiller](https://github.com/justinasla/AACommandsFiller)** | Command filler / visibility / tab-completion plugin for Minecraft 1.21.x | Java |
-| **[Geiger-Counters](https://github.com/justinasla/Geiger-Counters)** | Geiger counters plugin for Minecraft 1.21.x | Java |
+| **[geiger-counters](https://github.com/justinasla/geiger-counters)** | Geiger counters plugin for Minecraft 1.21.x | Java |
 | **[AnimalWhistle](https://github.com/justinasla/AnimalWhistle)** | Animal locator plugin for Minecraft 1.21.x | Java |
 | **[Surgery](https://github.com/justinasla/Surgery)** | Surgery plugin for Minecraft 1.21.x | Java |
 | **[Letters](https://github.com/justinasla/Letters)** | Letters plugin for Minecraft 1.21.x | Java |
