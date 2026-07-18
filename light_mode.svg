@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="516px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="516px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii" font-size="7px">
+<tspan x="15" y="30.0">                                     -|fUwQrvXUct[</tspan>
+<tspan x="15" y="38.0">                                    OZbW@$$$$$$$$$BWdY)</tspan>
+<tspan x="15" y="46.0">                                _1tm$&amp;$@B%B%BBB@@@$$$$$8Q</tspan>
+<tspan x="15" y="54.0">                             r0a8$$@@B8%%%%88%B@@@@@@B@$$&amp;1</tspan>
+<tspan x="15" y="62.0">                            Q@B$@%%BB8%BBBBBB%B@@$$$$$$@B$$c</tspan>
+<tspan x="15" y="70.0">                           z@B@B@@BBBB$@$$$$$$@@@$$$$$$$$@B$L</tspan>
+<tspan x="15" y="78.0">                          v@%@@$BhOCQOb#MMM###M&amp;8B@@@$$$$$@B$J</tspan>
+<tspan x="15" y="86.0">                          B%@$$oUf\|||txuzUCQOmda#%BB%%@$$@@B$t</tspan>
+<tspan x="15" y="94.0">                         |$B$Bmj|||\ttttfxcXYULmph*%BB&amp;&amp;B$$$@@W</tspan>
+<tspan x="15" y="102.0">                         \@%%Q||()(|/fjjrxvzXUQZwdbaM8B88@$@$@$</tspan>
+<tspan x="15" y="110.0">                         1@&amp;p\\()1)(|tjxxnvzYJLOqpbka**MM&amp;@@@@$~</tspan>
+<tspan x="15" y="118.0">                          W%Q||))(((\/fxnnucXYJQOwpka****#B$@$M</tspan>
+<tspan x="15" y="126.0">                          f$O||)1{{)\tjxuvvvcYLmk*WWWWWMWW%@B@*}</tspan>
+<tspan x="15" y="134.0">                           YWf|/nUOmZ0CzcczJmhW%8WWW&amp;8%B@B%%%&amp;WB+</tspan>
+<tspan x="15" y="142.0">                            w0c0wpbbkaoakqo&amp;&amp;W#okbao#WW&amp;B&amp;WB%Mo&amp;1</tspan>
+<tspan x="15" y="150.0">                            #&amp;pQYXJObhkdW8b8BMWWb*8W&amp;W##&amp;##WMMW#</tspan>
+<tspan x="15" y="158.0">                            uMXrJwOm#*aZMJ/w%%#ohbdkhhh#W*#**#BY</tspan>
+<tspan x="15" y="166.0">                             0p(\rvXC0U0d)fm*W&amp;#akkkbh*#**#M&amp;80</tspan>
+<tspan x="15" y="174.0">                             )OJnxzJQLCmjtnQk#M#hkbdbkha**#hU)</tspan>
+<tspan x="15" y="182.0">                              ]nrxuvcczj|/vQboh*kZ0Omdka**&amp;/</tspan>
+<tspan x="15" y="190.0">                               &lt;\)))|jntYCJp*M**hqZmwbha**&amp;\</tspan>
+<tspan x="15" y="198.0">                                }t((\f\tjjzQJdhhbdpwpkao**8\</tspan>
+<tspan x="15" y="206.0">                                 /||\|\/fuUQmbhaahdpdkaoo*8)</tspan>
+<tspan x="15" y="214.0">                                 &gt;f\\rJC0QZppk*MM*kdbhoo**WU</tspan>
+<tspan x="15" y="222.0">                                  "tjuXnuzLwwdkhhhhhao*****#q0n_</tspan>
+<tspan x="15" y="230.0">                                 _-?xunnuXJ0mmwdkaaa*#**oo**pk%$Mwv1</tspan>
+<tspan x="15" y="238.0">                             ?r0*h}]/txxjttnULZdkao***oaoa#owpmW$$$$$Mwc1</tspan>
+<tspan x="15" y="246.0">                         (zqMB@B%(i}n1/jvzYOdbbh*#oaaahhha#wqdqbB@BB@$$$$@o0f_</tspan>
+<tspan x="15" y="254.0">                    ]nOo%@$B&amp;WW8#]&lt;~QY(/fnYQmdkkahhkkkbkhMp0pdqqW$@$@@BBB$$$$$Wwn]</tspan>
+<tspan x="15" y="262.0">                _rZM@$B&amp;WW&amp;&amp;W&amp;%B#]~&gt;cWYjfffruzCmddddpppb*hCZbdpp#$@@@@@@@@@BB@$$$$8m{</tspan>
+<tspan x="15" y="270.0">             ica%$B8W#MW&amp;88&amp;8@BBW[~l\M*QcnxrncCwqwwwwmwkkvUmbbpqW$@$@@@@$@@@@@@BBB$#Jx[</tspan>
+<tspan x="15" y="278.0">           l+v@%&amp;&amp;&amp;&amp;WWW&amp;888%&amp;dh&amp;W[&lt;i]m&amp;awLXnxzC0OZmZOOwpr/YmdbpdB$$@@@@@@@@@@@@@@@%Ozrju</tspan>
+<tspan x="15" y="286.0">        :I??-CB&amp;88&amp;WMW&amp;88%%$w/ZoW[Il-x#WobZCYYJL00000Zdf]/z0qdqk$$$@@@@@@@@@@@@@@$Mzxx||</tspan>
+<tspan x="15" y="294.0">       !-?_&lt;}dB&amp;8&amp;WMW&amp;&amp;8%B@%vvd*&amp;(~)JZQo#*kwmO00QLCCZkx~1rJwdhh#$@$@@@@@@@@@@@@@B$qjff\{</tspan>
+<tspan x="15" y="302.0">      !_+-[{\#%8&amp;WMW&amp;8%%BB$hjJk&amp;@OjvaOfCp**kppwmOCUZqz&gt;rwda%$$$$$$$@@@@BB@@@@@@@@BX(\|)/</tspan>
+<tspan x="15" y="310.0">      -_&gt;&gt;+}j&amp;8&amp;&amp;WW&amp;8%BB@@@zrOkwdvcpm)LzXwhakdpw0LXx{+jwdb#$$$$$$$@@@@@BBBB@@@@B@Wffr|(|</tspan>
+<tspan x="15" y="318.0">     ++-~~&lt;~f88&amp;WW&amp;8%%B@@@pfX0txbLO&amp;Z-([tcvXZkbwZx]&lt;&lt;uwpdd%$$$@@@@@@@@@BB%BB@@@B$bjr()1c</tspan>
+<tspan x="15" y="326.0">    ~_&lt;__~_&lt;x%&amp;WW&amp;88%B$@$#npCtxqap*8M{[{-1t11fZp|I~-rwwdq*$@@@@@@@@@@@BBB%%%BBBB@mx11}nm</tspan>
+<tspan x="15" y="334.0">   &lt;_~~~-~]_nBW&amp;&amp;88%%@dJmQrrtnO*a#&amp;&amp;%v+{[-})-+-{}tcQmZppk@@@@@@@@@@@@BBB%%%%%BBBBdf{[jLc</tspan>
+<tspan x="15" y="342.0">  !_~++_~&lt;_{JB&amp;8888BB@QnYXx(u0h#M#MkdZ__[]-}?}JmOZOQQQwb%$@@@@@@@@@@BBB%%888%%BBBqj[rzt/</tspan>
+<tspan x="15" y="350.0">  _+~++__~_]0B&amp;88%%BB$$*Uf(rQb#MM*ao**xcr]{?)Lh0YXvYJz0W$@@@@@@@@@@BBB%%%888%%%%%mtfr)(/</tspan>
+<tspan x="15" y="358.0"> I_~+_--??-?QB&amp;888%B@#haj/nQdMaao#*hk*bb0?[?xXXntfrUCnw$B@@@@@@@@@BBB%%%88&amp;8%%%%%mv/{|\\</tspan>
+<tspan x="15" y="366.0"> -~+__-?][]_YB&amp;&amp;&amp;8%@#jvcvcLwmznqdko#aboo*u-|xXzr)(jJJC8BBBBB@@@@@@BBB%%88&amp;&amp;&amp;8%BBBpX\/|)(</tspan>
+<tspan x="15" y="374.0">~-++_--?}11-xB&amp;&amp;&amp;&amp;8BBqYUYXUv\tQahppk#*kkaoY/fzcr){rCL#B%BBBB@@@@@@BB%%%8&amp;&amp;&amp;88%BB@hct)1)|</tspan>
+<tspan x="15" y="382.0">-___-?][{)|||W%&amp;&amp;8%%$k/jnct\cwhpb*adphakhaMmncur)[rChB%BBBBB@@@@@@BB%%888&amp;&amp;&amp;8B@@$kv(1)))</tspan>
+<tspan x="15" y="390.0">-__-?][1)\trjd$8%@@%Wr|||\jcwM*hkhaoadpdb**W*mcr({/w@%BBBBBBB@@@@@@BB%888&amp;&amp;&amp;B@@@$hr(){{|</tspan>
+<tspan x="15" y="398.0">_+_?][{)|/jncO%BB@@$C\/|\xXm#B%Whddkoobdd*#*M&amp;*Y([v%@BBBB@@BB@@@@@@@B%%88&amp;&amp;%@@@@$qt|{{(|</tspan>
+<tspan x="15" y="406.0">__-?[}1)\fruXLb%BB$kft/ffnLd#&amp;8B8hqmwdbkha**##W#x\W@@B%B@@@BBB@@@@@@BB%88&amp;8@@$@@@Qf({1{1</tspan>
+<tspan x="15" y="414.0">_-?][}{)|tfxzJ0bW$Mr//xnrjvczUYmahbw0Ompooa***#&amp;ho$B@BB@@@@BBBB@@@@@@B%%88%@@$@@@Qf|1{{1</tspan>
+<tspan x="15" y="422.0">_~+++_-[}{))1tvJw*c|\\txUmwOQCJ0qqhakqppkaaa****W&amp;8@$BB@@@@BBBBB@@@@@@B%88B@$@@BMUt|{{{1</tspan>
+<tspan x="15" y="430.0">[-+~?}11[??-(YQOwz||||tc0hM&amp;&amp;M*bwZmqppbahbhaoooo*##W%B@@@@@@BBBBB@@@@@@B%%@@$$$&amp;J/1}{)(\</tspan>
+<tspan x="15" y="438.0">?_]{1}?_~]\vJCCJx\\|\jcQdh*WWW&amp;88#ZJLmqbhbdhaaaoooo**M8B$$@@@BBBBB@@@@@@%%@@$8dLu\(\ttt/</tspan>
+<tspan x="15" y="446.0">?}[__+~_|rrffrx/)(\fnY0phoMWW&amp;&amp;&amp;8%B#wJ0Zmwqbhhkhhhhaaoo#&amp;B$$@BB@@@@@@@@@BBB@#v\111))))1{</tspan>
+<tspan x="15" y="454.0">]_++_+-)|11|tf|))|/rX0wpk*W&amp;&amp;88%%%%BBhJYC0Zqdpbbddbkkkhao#M&amp;%BB@@@@@@@@@@@B$a(//\())(\fr</tspan>
+<tspan x="15" y="462.0">+____-[}}1|\t\(|/fuYQmphM8%%BBBBB%%8%@&amp;b0QOwqpddwmwwppqb#ha%@@@BB$@@@@@@@@@8Y|((()|trrrr</tspan>
+<tspan x="15" y="470.0">____-]]}1|(|x/truzQqko#&amp;$$@@@@@BB%%%88B$B*dwwqqwOOOOZ0Qma0h$@$$$%%$@@@@@@@$b)\\||\tft\\|</tspan>
+<tspan x="15" y="478.0">____-]]})1_/trvzXJqkhM#&amp;$$$@@@@@@@BBB%%%@$@&amp;ohkbmLLJUJQZkYYB$@@@@MB$$@@@@@&amp;Xt///\t///\|\</tspan>
+<tspan x="15" y="486.0">___-?[[{]~&gt;\cxcnvLpkoWWB@$$@@@@@@@@@@@BBBB@$@$@$%dLLQZm0Oqkp&amp;$$$$Wd*B$$@@$atffffttt/\/xX</tspan>
+<tspan x="15" y="494.0">---?][}-&lt;&lt;&lt;&lt;JZcuXOpkoodk$@$$@@BBBBBBB@@BBB@@%B@BB$kC0khp#MM#oW&amp;%8kqmqo%$$@arjrjjffttrucu</tspan>
+<tspan x="15" y="502.0">_-???-~&lt;&lt;&lt;~~-OQuzUQmmk\ a@B$$@BB%%%%%%%BBBBBBB@B@@B*haM&amp;#WMMWo**pwmmZOmh&amp;$arrrrrrrrxxrjr</tspan>
+<tspan x="15" y="510.0">?]?-[~&gt;&gt;&lt;++---vYuXQmpq  t$%@$@@BB%%%8888%%BBBB@@@@$$B##MWM#hbbh0JCQ0Q0O00hdrxxnnnnxrrjrr</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">justinas@launikonis</tspan> -————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Windows 11, Android 14, ER 2.2.5</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 11 months, 4 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">NHL Stenden University of Applied Scienes</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Information Technology Student</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">IDEA 2025.3.3, VSCode 1.128.1</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">TS, Python, Java, Kotlin, C++</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">English, Lithuanian</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Even G2, Minecraft plugins</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Embedded systems, 3D printing, Drones</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">justinas.launikonis@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Student</tspan>:<tspan class="cc">  </tspan><tspan class="value">justinas.launikonis@student.nhlstenden.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">JustinasLa</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">discord</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">justinthatone</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">justinas-launikonis</tspan>
+<tspan x="390" y="450">- Dev Stats</tspan> -————————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> </tspan><tspan class="value" id="repo_data">12</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">23</tspan>} | <tspan class="key">Unique Plugin Users</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">6267</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .............. </tspan><tspan class="value" id="commit_data">355</tspan> | <tspan class="key">Total ER Downloads</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">26</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> .. </tspan><tspan class="value" id="loc_data">71,742</tspan> ( <tspan class="addColor" id="loc_add">93,394</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">21,652</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
