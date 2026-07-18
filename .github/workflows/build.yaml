@@ -29,7 +29,12 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
-        run: python today.py
+        run: |-
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "ACCESS_TOKEN secret not set; skipping stats update"
+            exit 0
+          fi
+          python today.py
       - name: Commit
         run: |-
           git add .
