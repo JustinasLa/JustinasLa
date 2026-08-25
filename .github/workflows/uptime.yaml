@@ -1,0 +1,67 @@
+name: Update uptime
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Get Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: python -m pip install python-dateutil
+
+      - name: Update uptime field in SVGs
+        run: |
+          python - <<'PY'
+          import datetime, re
+          from dateutil import relativedelta
+
+          birthday = datetime.datetime(2006, 8, 14)
+          diff = relativedelta.relativedelta(datetime.datetime.today(), birthday)
+
+          def plural(n):
+              return 's' if n != 1 else ''
+
+          age = '{} year{}, {} month{}, {} day{}{}'.format(
+              diff.years, plural(diff.years),
+              diff.months, plural(diff.months),
+              diff.days, plural(diff.days),
+              ' \U0001F382' if (diff.months == 0 and diff.days == 0) else '')
+
+          pattern = re.compile(r'(id="age_data">)[^<]*(<)')
+
+          for filename in ('dark_mode.svg', 'light_mode.svg'):
+              with open(filename, 'r', encoding='utf-8') as f:
+                  content = f.read()
+              content = pattern.sub(lambda m: m.group(1) + age + m.group(2), content)
+              with open(filename, 'w', encoding='utf-8') as f:
+                  f.write(content)
+
+          print('Uptime set to:', age)
+          PY
+
+      - name: Commit
+        run: |-
+          git add dark_mode.svg light_mode.svg
+          git config --global user.email "github-actions-bot@users.noreply.github.com"
+          git config --global user.name "JustinasLa/GitHub-Actions-Bot"
+          if git commit -m "Update uptime"; then
+            git push
+          else
+            echo "No changes to commit"
+          fi
