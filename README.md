@@ -11,7 +11,7 @@
 
 # 🕶️ [evenhub-app-ui](https://github.com/JustinasLa/evenhub-app-ui)
 
-**A Claude Code plugin that makes your agent speak fluent Even OS 2.0 — official G2 design tokens, zero guessed hex values.**
+**A Claude Code plugin that makes your agent speak fluent Even OS 2.0. Official G2 design tokens, full color fidelity.**
 
 Exact color tokens. FK Grotesk type scale. 193 official pixel SVGs bundled.
 
@@ -45,7 +45,7 @@ I like minimal interfaces and useful tools.
 
 | Project | Description | Built with |
 |---|---|---|
-| **[loot-predictor](https://github.com/JustinasLa/loot-predictor)** | Deterministic loot prediction from a reverse-engineered game PRNG and empirically mapped loot tables. | JavaScript |
+| **[loot&#8209;predictor](https://github.com/JustinasLa/loot-predictor)** | Deterministic loot prediction from a reverse-engineered game PRNG and empirically mapped loot tables. | JavaScript |
 
 ---
 
@@ -72,5 +72,3 @@ I like minimal interfaces and useful tools.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
-
-<sub>Terminal-style stats card adapted from [Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant).</sub>
