@@ -41,6 +41,14 @@ I like minimal interfaces and useful tools.
 
 ---
 
+#### Tools
+
+| Project | Description | Built with |
+|---|---|---|
+| **[loot-predictor](https://github.com/JustinasLa/loot-predictor)** | Deterministic loot prediction from a reverse-engineered game PRNG and empirically mapped loot tables. | JavaScript |
+
+---
+
 #### Minecraft plugins
 
 | Plugin | Description | Built with |
@@ -62,3 +70,7 @@ I like minimal interfaces and useful tools.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+<sub>Terminal-style stats card adapted from [Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant).</sub>
