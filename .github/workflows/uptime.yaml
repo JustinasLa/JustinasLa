@@ -2,7 +2,7 @@ name: Update uptime
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "5 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   update:
+    if: github.repository == 'JustinasLa/JustinasLa'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository

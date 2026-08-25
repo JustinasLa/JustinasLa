@@ -9,6 +9,7 @@ permissions:
   contents: write
 jobs:
   build:
+    if: github.repository == 'JustinasLa/JustinasLa'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -39,11 +40,11 @@ jobs:
           python today.py
       - name: Commit
         run: |-
-          git add .
-          git diff
+          git add dark_mode.svg light_mode.svg cache/*.txt
+          git diff --staged
           git config --global user.email "github-actions-bot@users.noreply.github.com"
           git config --global user.name "JustinasLa/GitHub-Actions-Bot"
-          if git commit -m "Updated README" -a; then
+          if git commit -m "Updated README"; then
             git push
           else
             echo "No changes to commit"
