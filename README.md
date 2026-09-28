@@ -1,74 +1,11 @@
-<a href="https://github.com/JustinasLa/JustinasLa">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustinasLa/JustinasLa/main/dark_mode.svg">
-    <img alt="Justinas Launikonis' GitHub Profile" src="https://raw.githubusercontent.com/JustinasLa/JustinasLa/main/light_mode.svg">
-  </picture>
-</a>
+### About Me
+- Hi I'm Justinas! Information Technology student in the Netherlands
+- I build small, random but focused tools, mostly for Minecraft [TF-Minecraft](https://github.com/TF-Minecraft)
+- In my free time I like bouldering, darts, and drones
 
----
+### Contact Me
+- [LinkedIn](https://www.linkedin.com/in/justinaslaunikonis/)
 
-<div align="center">
+ryzen 7 3800x | nvidia rtx 2070 super | 16g 3733mhz ram
 
-# 🕶️ [evenhub-app-ui](https://github.com/JustinasLa/evenhub-app-ui)
-
-**A Claude Code plugin that makes your agent speak fluent Even OS 2.0. Official G2 design tokens, full color fidelity.**
-
-Exact color tokens. FK Grotesk type scale. 193 official pixel SVGs bundled.
-
-`/plugin marketplace add JustinasLa/evenhub-app-ui` <br>
-`/plugin install evenhub-app-ui@evenhub-app-ui`
-
-[**⭐ Star it →**](https://github.com/JustinasLa/evenhub-app-ui) &nbsp;·&nbsp; design tokens &nbsp;·&nbsp; 193 pixel icons &nbsp;·&nbsp; icon forge &nbsp;·&nbsp; MIT
-
-</div>
-
----
-
-# Justinas Launikonis
-
-Software & embedded systems student in the Netherlands, building small, focused apps – no telemetry, no bloat, no subscriptions.
-
-I like minimal interfaces and useful tools.
-
----
-
-#### Even-dev apps
-
-| App | Description | Built with |
-|---|---|---|
-| **[perron-ns-even-g2](https://github.com/justinasla/perron-ns-even-g2)** | NS (Dutch Railways) journey planner for the Even Realities G2 | TypeScript |
-| **[darts-even-g2](https://github.com/justinasla/darts-even-g2)** | Darts checkout counter | TypeScript |
-
----
-
-#### Tools
-
-| Project | Description | Built with |
-|---|---|---|
-| **[loot&#8209;predictor](https://github.com/JustinasLa/loot-predictor)** | Deterministic loot prediction from a reverse-engineered game PRNG and empirically mapped loot tables. | JavaScript |
-
----
-
-#### Minecraft plugins
-
-| Plugin | Description | Built with |
-|---|---|---|
-| **[musical-instruments](https://github.com/justinasla/musical-instruments)** | Instrument playing and music recording plugin for Minecraft 1.21.x | Java |
-| **[AACommandsFiller](https://github.com/justinasla/AACommandsFiller)** | Command filler / visibility / tab-completion plugin for Minecraft 1.21.x | Java |
-| **[geiger-counters](https://github.com/justinasla/geiger-counters)** | Geiger counters plugin for Minecraft 1.21.x | Java |
-| **[animal-whistle](https://github.com/justinasla/animal-whistle)** | Animal locator plugin for Minecraft 1.21.x | Java |
-| **[Surgery](https://github.com/justinasla/Surgery)** | Surgery plugin for Minecraft 1.21.x | Java |
-| **[Letters](https://github.com/justinasla/Letters)** | Letters plugin for Minecraft 1.21.x | Java |
-
----
-
-#### Tech I work with
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
+[![Cursor](https://img.shields.io/badge/Cursor-3D3D3D?style=flat&logo=cursor&logoColor=white)](https://cursor.com) [![T3 Code](https://img.shields.io/badge/Code-3D3D3D?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjE0IDM2IDk3IDU5Ij48cGF0aCBkPSJNMzMuNDUwOSA5M1Y0Ny41NkgxNS41MzA5VjM3SDY0LjMzMDlWNDcuNTZINDYuNDEwOVY5M0gzMy40NTA5Wk04Ni43MjUzIDkzLjk2QzgyLjgzMiA5My45NiA3OC45NjUzIDkzLjQ1MzMgNzUuMTI1MyA5Mi40NEM3MS4yODUzIDkxLjM3MzMgNjguMDMyIDg5Ljg4IDY1LjM2NTMgODcuOTZMNzAuNDA1MyA3OC4wNEM3Mi41Mzg2IDc5LjU4NjcgNzUuMDE4NiA4MC44MTMzIDc3Ljg0NTMgODEuNzJDODAuNjcyIDgyLjYyNjcgODMuNTI1MyA4My4wOCA4Ni40MDUzIDgzLjA4Qzg5LjY1ODYgODMuMDggOTIuMjE4NiA4Mi40NCA5NC4wODUzIDgxLjE2Qzk1Ljk1MiA3OS44OCA5Ni44ODUzIDc4LjEyIDk2Ljg4NTMgNzUuODhDOTYuODg1MyA3My43NDY3IDk2LjA1ODYgNzIuMDY2NyA5NC40MDUzIDcwLjg0QzkyLjc1MiA2OS42MTMzIDkwLjA4NTMgNjkgODYuNDA1MyA2OUg4MC40ODUzVjYwLjQ0TDk2LjA4NTMgNDIuNzZMOTcuNTI1MyA0Ny40SDY4LjE2NTNWMzdIMTA3LjM2NVY0NS40TDkxLjg0NTMgNjMuMDhMODUuMjg1MyA1OS4zMkg4OS4wNDUzQzk1LjkyNTMgNTkuMzIgMTAxLjEyNSA2MC44NjY3IDEwNC42NDUgNjMuOTZDMTA4LjE2NSA2Ny4wNTMzIDEwOS45MjUgNzEuMDI2NyAxMDkuOTI1IDc1Ljg4QzEwOS45MjUgNzkuMDI2NyAxMDkuMDk5IDgxLjk4NjcgMTA3LjQ0NSA4NC43NkMxMDUuNzkyIDg3LjQ4IDEwMy4yNTkgODkuNjkzMyA5OS44NDUzIDkxLjRDOTYuNDMyIDkzLjEwNjcgOTIuMDU4NiA5My45NiA4Ni43MjUzIDkzLjk2WiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)](https://github.com/pingdotgg/t3code) 
