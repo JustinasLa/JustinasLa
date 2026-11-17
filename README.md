@@ -2,6 +2,8 @@
 - Hi I'm Justinas! Information Technology student in the Netherlands
 - I build small, random but focused tools, mostly for Minecraft [TF-Minecraft](https://github.com/TF-Minecraft)
 - In my free time I like bouldering, darts, and drones
+- 🏆 **Junction 2026**: Winner of the Oxylabs challenge
+- 🥉 **Junction 2026**: 3rd place in the Hostinger challenge
 
 ### Contact Me
 - [LinkedIn](https://www.linkedin.com/in/justinaslaunikonis/)
